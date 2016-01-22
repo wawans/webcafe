@@ -1,0 +1,10 @@
+#header {
+    border-top: 4px solid #f34949;
+}
+header .logo {
+    color: #000;
+}
+header .logo a {
+    color: #000;
+    text-decoration: none;
+}
